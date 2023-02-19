@@ -1,4 +1,5 @@
 # Add Users and Scores to DB
+# Selenium WebDriver
 
 from tkinter import *
 import sqlite3
