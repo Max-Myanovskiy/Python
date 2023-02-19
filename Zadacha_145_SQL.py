@@ -1,5 +1,3 @@
-# Add Users and Scores to DB
-
 from tkinter import *
 import sqlite3
 
